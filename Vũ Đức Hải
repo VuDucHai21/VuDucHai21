@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Giới thiệu Về Tao</title>
+    <style>
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f3f4f6;
+            color: #333;
+        }
+        .header {
+            background-color: #4CAF50;
+            color: white;
+            padding: 20px;
+            text-align: center;
+        }
+        .container {
+            max-width: 1000px;
+            margin: 20px auto;
+            padding: 20px;
+            background-color: white;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+        .profile-pic {
+            max-width: 150px;
+            border-radius: 50%;
+            margin-bottom: 20px;
+        }
+        h1 {
+            color: #333;
+        }
+        h2 {
+            color: #4CAF50;
+        }
+        p {
+            line-height: 1.6;
+        }
+        .footer {
+            text-align: center;
+            padding: 10px;
+            margin-top: 20px;
+            border-top: 1px solid #ddd;
+            color: #666;
+        }
+        .contact-info {
+            margin: 20px 0;
+        }
+    </style>
+</head>
+<body>
+    <div class="header">
+        <h1>Chào mừng đến với Trang Web Cá Nhân của Tôi</h1>
+    </div>
+    <div class="container">
+        <div style="text-align: center;">
+            <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.flaticon.com%2Ffree-icon%2Fadmin_9703596&psig=AOvVaw3J3zxaaI7-221pV9TUFVWz&ust=1716443246683000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCNjzisbHoIYDFQAAAAAdAAAAABAE" alt="Profile Picture" class="profile-pic">
+        </div>
+        <h2>Về Tao</h2>
+        <p>
+              Xin chào! Tôi là [Vũ Đức Hải], một người luôn tò mò và khao khát học hỏi. Tôi thích khám phá những điều mới mẻ và không ngừng tìm kiếm kiến thức trong cuộc sống. Với tinh thần đó, tôi đã trải qua nhiều trải nghiệm thú vị và học hỏi được nhiều điều bổ ích.
+        </p>
+        <h2>Sở Thích và Đam Mê</h2>
+        <p>
+              Tôi đam mê [Đánh Cầu Lông Và ĐÁnh Bi], và dành nhiều thời gian đểđánh]. Những hoạt động này không chỉ mang lại niềm vui mà còn giúp tôi mở rộng tầm nhìn và kỹ năng.
+        </p>
+        <h2>Kinh Nghiệm và Thành Tựu</h2>
+        <p>
+              Trong hành trình của mình, tôi đã có cơ hội làm việc tạiquán] và đạt được [một cái kẹo]. Những kinh nghiệm này đã giúp tôi trưởng thành hơn và chuẩn bị tốt hơn cho những thử thách phía trước.
+        </p>
+        <div class="contact-info">
+            <h2>Liên Hệ</h2>
+            <p>Email: <a href="mailto:vuduchai90929394@gmail.com">email@example.com</a></p>
+            <p>Điện thoại: 0123-456-789</p>
+        </div>
+    </div>
+    <div class="footer">
+      <p>&copy; 2024 [Vũ Đức Hải]. All rights reserved.</p>
+    </div>
+</body>
+</html>
